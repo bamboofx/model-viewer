@@ -1,0 +1,5 @@
+commit cd4f9daa0bd285fc2b4d8d7ed7de8970bf29ca2f
+Author: Christopher George <chrisgeorge@google.com>
+Date:   Mon Nov 2 08:37:50 2020 -1000
+
+    fix material not updating (#1690)
